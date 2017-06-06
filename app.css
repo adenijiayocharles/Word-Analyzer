@@ -1,0 +1,32 @@
+body{
+	background-color: #F5F5F5;
+}
+
+h1{
+	text-align: center;
+}
+
+textarea{
+	display: block;
+	width: 600px;
+	height: 100px;
+	padding: 1%;
+	margin: auto;
+	border: 1px solid #F5F5F5;
+}
+
+input[type="submit"]{
+	width: 100px;
+	height: auto;
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	cursor: pointer;
+	padding: 1% 2%;
+	background-color: #D66049;
+	border: 1px solid #D66049;
+}
+
+.result{
+	margin: auto;
+}
